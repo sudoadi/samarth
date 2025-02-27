@@ -10,3 +10,4 @@ Real-time attendance monitoring
 Secure and accurate record-keeping
 Easy integration and setup
 Simple user interface for both administrators and users
+https://github.com/sudoadi/samarth/releases
